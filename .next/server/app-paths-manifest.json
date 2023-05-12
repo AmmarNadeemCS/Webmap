@@ -1,0 +1,5 @@
+{
+  "/Aboutu/page": "app/Aboutu/page.js",
+  "/Blog/page": "app/Blog/page.js",
+  "/Aboutu/services/page": "app/Aboutu/services/page.js"
+}
